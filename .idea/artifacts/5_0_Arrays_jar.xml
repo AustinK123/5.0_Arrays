@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="5.0 Arrays:jar">
+    <output-path>$PROJECT_DIR$</output-path>
+    <root id="archive" name="5.0 Arrays.jar">
+      <element id="module-output" name="5.0 Arrays" />
+    </root>
+  </artifact>
+</component>
