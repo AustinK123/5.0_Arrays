@@ -54,7 +54,7 @@ public class BasicGameApp implements Runnable, KeyListener, MouseListener {
         public Image carPic22;
         public Image carPic23;
 
-        public double timecount =0;
+        public double timecount=0;
 
         public Image polarPic;
 
