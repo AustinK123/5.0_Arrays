@@ -27,11 +27,11 @@ public class BasicGameApp implements Runnable, KeyListener, MouseListener {
     public JFrame frame;
     public Canvas canvas;
     public JPanel panel;
+//was previously public vvv
+    private BufferStrategy bufferStrategy;
 
-    public BufferStrategy bufferStrategy;
-
-
-        public Image chickenPic;
+        //image variable was previously public
+        private Image chickenPic;
 
         public Image carPic4;
         public Image carPic5;

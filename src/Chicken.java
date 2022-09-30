@@ -16,8 +16,8 @@ public class Chicken {
    public Rectangle rec;
 
 
-
-   public Chicken(int pXpos, int pYpos) {
+//previously PXpos and PYpos
+   public Chicken(int Xpos, int Ypos) {
       xpos = 500;
       ypos = 150;
       dx = 0;
